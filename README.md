@@ -1,1 +1,0 @@
-# shl-assessment-agent
